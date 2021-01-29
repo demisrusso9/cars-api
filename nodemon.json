@@ -1,0 +1,7 @@
+{
+   "watch": ["src"],
+   "txt": "ts",
+   "execMap": {
+      "ts": "ts-node src/index.ts"
+   }
+}
